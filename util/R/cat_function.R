@@ -1,7 +1,7 @@
 #' this is a documentation
 #' blahblah
-
-
+#' @param love
+#' @return print value
 #' @export
 cat_function <- function(love=TRUE){
   if(love==TRUE){
