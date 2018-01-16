@@ -2,7 +2,7 @@
 #' blahblah
 
 
-
+#' @export
 cat_function <- function(love=TRUE){
   if(love==TRUE){
     print("I love cats!")
